@@ -2,7 +2,9 @@ pseudo code
 {
 Initial Function()
 {
-  //Feature 1 Code
+
+  //Feature 1 and 2  Code.
+
 }
 
 Initial Security()
